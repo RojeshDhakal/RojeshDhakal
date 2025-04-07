@@ -25,6 +25,7 @@ I’m a **Data Analyst** and aspiring **Data Scientist** with a focus on **FinTe
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rojesh-dhakal-753066223/)
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rozesdhakal@gmail.com)
 - [![Portfolio](https://img.shields.io/website?url=http%3A//www.website.com/path/to/page.html)](https://rojeshdhakal.github.io/))
-- [![Portfolio](https://img.shields.io/website?url=http%3A//rojeshdhakal.github.io/)]
+- [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Frojeshdhakal.github.io%2F)](https://rojeshdhakal.github.io/)
+
 
 Feel free to reach out for collaborations or discussions related to data science and financial analysis!

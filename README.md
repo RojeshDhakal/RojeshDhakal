@@ -15,7 +15,7 @@ I’m a **Data Analyst** and aspiring **Data Scientist** specializing in **finte
   
 ## 🚀 Featured Projects
 
-- **[Investment Analysis: TESLA Portfolio Impact](https://github.com/RojeshDhakal/Investment-Analysis)**: Evaluating my current US portfolio, including **TESLA**, with advanced financial models like **CAPM**, **MPT**, and **LSTM** to optimize risk and return.
+- **[Investment Analysis: TESLA Portfolio Impact](https://github.com/RojeshDhakal/Investment-Analysis)**: Evaluating my current US portfolio, with advanced financial models like **CAPM**, **MPT**, and **LSTM** to optimize risk and return.
 - **[Supervised Learning: Predicting NZX 50](https://github.com/RojeshDhakal/NZX-VS-ASX-VS-SP500)**: Predicting the **NZX 50** index using machine learning algorithms trained on movements from the **S&P 500** and **ASX 200**.
 - **[Customer Churn Prediction (Kiwibank)](https://github.com/RojeshDhakal/Customer-Churn-KiwiBank)**: Implementing neural networks to forecast customer retention and churn at **Kiwibank**, aiming to enhance customer lifetime value.
 
